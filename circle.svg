@@ -1,9 +1,0 @@
-<svg width="300" height="200" xmlns="http://www.w3.org/2000/svg">
-    <!-- 직사각형 그리기 -->
-    <rect x="50" y="50" width="200" height="100" fill="blue" />
-
-    <!-- 둥근 모서리가 있는 직사각형 그리기 -->
-    <rect x="50" y="170" width="200" height="30" rx="15" ry="15" fill="green" />
-    <!-- rx: 가로 반경 -->
-    <!-- ry: 세로 반경  -->
-</svg>
